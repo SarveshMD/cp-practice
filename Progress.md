@@ -70,6 +70,9 @@
     - 118A - String Task [1000]
     - 69A - Young Physicist [1000]
     - 58A - Chat Rooms [1000]
+- 15th April
+    - 2209A - Flip Flops [800]
+    - 2210A - A Simple Sequence [800]
 
 ## LeetCode
 - 24th March
@@ -131,3 +134,5 @@
 - 14th April
     - 167. Two Sum II - Input Array Is Sorted [Medium]
     - 11. Container With Most Water [Medium]
+- 15th April
+    - 15. 3Sum [Medium] (two implementations)
