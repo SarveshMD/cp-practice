@@ -1,0 +1,133 @@
+# Tracking Progress in Competitive Programming
+
+## Codeforces
+- 30th March
+    - 4A - Watermelon [800]
+    - 71A - Way Too Long Words [800]
+    - 231A - Team [800]
+- 3rd April
+    - 282A - Bit++ [800]
+    - 158A - Next Round [800]
+    - 50A - Domino Piling [800]
+- 4th April
+    - 263A - Beautiful Matrix [800]
+    - 112A - Petya and Strings [800]
+    - 236A - Boy or Girl [800]
+    - Contest 1090 (Round 1090 - Div.4)
+        - A - The 67th Integer Problem
+        - B - The 67th 6-7 Integer Problem
+        - C - The 67th Permutation Problem
+        - Results: 0+385 = 385 Rating
+- 5th April
+    - 339A - Helpful Maths [800]
+    - 281A - Word Capitalization [800]
+    - 791A - Bear and Big Brother [800]
+- 6th April
+    - 617A - Elephant [800]
+    - 266A - Stones on the Table [800]
+- 7th April
+    - 59A - Word [800]
+    - 977A - Wrong Subtraction [800]
+    - 110A - Nearly Lucky Number [800]
+    - 339A - Helpful Maths [C++ Implementation]
+    - 96A - Football [900]
+    - Contest 2217 (Round 1091 - Div.2)
+        - A - The Equalizer
+        - Results: 385+240 = 625 Rating
+- 8th April
+    - 318A - Even Odds [900]
+    - 160A - Twins [900]
+- 9th April
+    - Contest 2200 (Round 1084 - Div.3) (practice)
+        - A - Eating Game
+        - B - Deletion Sort
+        - C - Specialty String
+    - 405A - Gravity Flip [900]
+    - 133A - HQ9+ [900]
+    - 208A - Dubstep [900]
+- 10th April
+    - 734A - Anton and Danik [800]
+    - 580A - Kefa and First Steps [900]
+    - 337A - Puzzles [900]
+- 11th April
+    - 1374B - Multiply by 2, Divide by 6 [900]
+    - 451A - Game With Sticks [900]
+    - 1475A - Odd Divisor [900]
+- 12th April
+    - Attempted 2216A - Course Wishes for hours. DNF.
+    - 41A - Translation [800]
+    - 34B - Sale [900]
+- 13th April
+    - 677A - Vanya and Fence [800]
+    - 271A - Beautiful Year [800]
+    - 313A - Ilya and Bank Account [900]
+    - 1850D - Balanced Round [900]
+    - Contest 2220 (Round 1093 Div.2)
+        - A - Blocked (Wrong on Submission)
+        - Results: 625+131 = 756 Rating
+- 14th April
+    - 1A - Theatre Square [1000]
+    - 118A - String Task [1000]
+    - 69A - Young Physicist [1000]
+    - 58A - Chat Rooms [1000]
+
+## LeetCode
+- 24th March
+    - 263. Ugly Number [Easy]
+    - 861. Score After Flipping Matrix [Medium]
+- 30th March
+    - 53. Maximum Subarray [Medium]
+- 1st April
+    - 51. N-Queens [Hard]
+    - 52. N-Queens II [Hard]
+- 2nd April
+    - 14. Longest Common Prefix [Easy]
+    - 104. Maximum Depth of Binary Tree [Easy]
+    - 112. Path Sum [Easy]
+    - 113. Path Sum II [Medium]
+- 3rd April
+    - 100. Same Tree [Easy]
+    - 2703. Return Length of Arguments Passed [Easy]
+    - 1572. Matrix Diagonal Sum [Easy]
+    - 237. Delete Node in a Linked List [Medium]
+    - 700. Search in a Binary Search Tree [Easy]
+    - 2331. Evaluate Boolean Binary Tree [Easy]
+    - 832. Flipping an Image [Easy]
+    - 1464. Maximum Product of Two Elements in an Array [Easy]
+    - 1008. Construct Binary Search Tree from Preorder Traversal [Medium]
+    - 48. Rotate Image [Medium]
+- 4th April
+    - 141. Linked List Cycle [Easy]
+- 5th April
+    - 121. Best Time to Buy and Sell Stock [Easy]
+    - 160. Intersection of Two Linked Lists [Easy]
+- 6th April
+    - 217. Contains Duplicate [Easy]
+    - 219. Contains Duplicate II [Easy]
+- 7th April
+    - 191. Number of 1 Bits [Easy]
+    - 190. Reverse Bits [Easy]
+- 8th April
+    - 111. Minimum Depth of Binary Tree [Easy]
+    - 257. Binary Tree Paths [Easy]
+- 9th April
+    - 257. Binary Tree Paths [Easy] (Redid with cleaner method)
+    - 110. Balanced Binary Tree [Easy]
+    - 461. Hamming Distance [Easy]
+    - 2807. Insert Greatest Common Divisors in Linked List [Medium]
+    - 1669. Merge In Between Linked Lists [Medium]
+    - 29. Divide Two Integers [Medium]
+- 10th April
+    - 19. Remove Nth Node From End of List [Medium]
+    - 169. Majority Element [Easy]
+- 11th April
+    - 39. Combination Sum [Medium]
+    - 40. Combination Sum II [Medium] (Assisted)
+- 12th April
+    - 222. Count Complete Tree Nodes [Easy]
+- 13th April
+    - 128. Longest Consecutive Sequence [Medium]
+    - 101. Symmetric Tree [Easy]
+- 14th April
+    - 167. Two Sum II - Input Array Is Sorted [Medium]
+    - 11. Container With Most Water [Medium]
