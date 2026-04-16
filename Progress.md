@@ -73,6 +73,10 @@
 - 15th April
     - 2209A - Flip Flops [800]
     - 2210A - A Simple Sequence [800]
+- 16th April
+    - 2208A - Bingo Candles [800]
+    - 2205B - Simons and Cakes for Success [800]
+    - 2204B - Right Maximum [800]
 
 ## LeetCode
 - 24th March
@@ -136,3 +140,6 @@
     - 11. Container With Most Water [Medium]
 - 15th April
     - 15. 3Sum [Medium] (two implementations)
+- 16th April
+    - 643. Maximum Average Subarray I [Easy]
+    - 209. Minimum Size Subarray Sum [Medium]
