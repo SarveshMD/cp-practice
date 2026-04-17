@@ -77,6 +77,9 @@
     - 2208A - Bingo Candles [800]
     - 2205B - Simons and Cakes for Success [800]
     - 2204B - Right Maximum [800]
+- 17th April
+    - 2216A - Course Wishes [900]
+    - 2210B - Simply Sitting on Chairs [900]
 
 ## LeetCode
 - 24th March
@@ -143,3 +146,7 @@
 - 16th April
     - 643. Maximum Average Subarray I [Easy]
     - 209. Minimum Size Subarray Sum [Medium]
+- 17th April
+    - 118. Pascal's Triangle [Easy]
+    - 119. Pascal's Triangle II [Easy]
+    - 120. Triangle [Easy]
