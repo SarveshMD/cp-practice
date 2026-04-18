@@ -80,6 +80,9 @@
 - 17th April
     - 2216A - Course Wishes [900]
     - 2210B - Simply Sitting on Chairs [900]
+- 18th April
+    - 2209B - Array [900]
+    - 2204A - Passing the Ball [800]
 
 ## LeetCode
 - 24th March
@@ -150,3 +153,7 @@
     - 118. Pascal's Triangle [Easy]
     - 119. Pascal's Triangle II [Easy]
     - 120. Triangle [Easy]
+- 18th April
+    - 64. Minimum Path Sum [Medium]
+    - 62. Unique Paths [Medium] (3 implementations: recursion, DP, combinatorics)
+    - 63. Unique Paths II [Medium]
