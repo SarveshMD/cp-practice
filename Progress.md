@@ -1,6 +1,7 @@
 # Tracking Progress in Competitive Programming
 
 ## Codeforces
+
 - 30th March
     - 4A - Watermelon [800]
     - 71A - Way Too Long Words [800]
@@ -83,77 +84,82 @@
 - 18th April
     - 2209B - Array [900]
     - 2204A - Passing the Ball [800]
+- 19th April
+    - 2194A - Lawn Mower [800]
 
 ## LeetCode
+
 - 24th March
-    - 263. Ugly Number [Easy]
-    - 861. Score After Flipping Matrix [Medium]
+    -   263. Ugly Number [Easy]
+    -   861. Score After Flipping Matrix [Medium]
 - 30th March
-    - 53. Maximum Subarray [Medium]
+    -   53. Maximum Subarray [Medium]
 - 1st April
-    - 51. N-Queens [Hard]
-    - 52. N-Queens II [Hard]
+    -   51. N-Queens [Hard]
+    -   52. N-Queens II [Hard]
 - 2nd April
-    - 14. Longest Common Prefix [Easy]
-    - 104. Maximum Depth of Binary Tree [Easy]
-    - 112. Path Sum [Easy]
-    - 113. Path Sum II [Medium]
+    -   14. Longest Common Prefix [Easy]
+    -   104. Maximum Depth of Binary Tree [Easy]
+    -   112. Path Sum [Easy]
+    -   113. Path Sum II [Medium]
 - 3rd April
-    - 100. Same Tree [Easy]
-    - 2703. Return Length of Arguments Passed [Easy]
-    - 1572. Matrix Diagonal Sum [Easy]
-    - 237. Delete Node in a Linked List [Medium]
-    - 700. Search in a Binary Search Tree [Easy]
-    - 2331. Evaluate Boolean Binary Tree [Easy]
-    - 832. Flipping an Image [Easy]
-    - 1464. Maximum Product of Two Elements in an Array [Easy]
-    - 1008. Construct Binary Search Tree from Preorder Traversal [Medium]
-    - 48. Rotate Image [Medium]
+    -   100. Same Tree [Easy]
+    -   2703.   Return Length of Arguments Passed [Easy]
+    -   1572.   Matrix Diagonal Sum [Easy]
+    -   237. Delete Node in a Linked List [Medium]
+    -   700. Search in a Binary Search Tree [Easy]
+    -   2331.   Evaluate Boolean Binary Tree [Easy]
+    -   832. Flipping an Image [Easy]
+    -   1464.   Maximum Product of Two Elements in an Array [Easy]
+    -   1008.   Construct Binary Search Tree from Preorder Traversal [Medium]
+    -   48. Rotate Image [Medium]
 - 4th April
-    - 141. Linked List Cycle [Easy]
+    -   141. Linked List Cycle [Easy]
 - 5th April
-    - 121. Best Time to Buy and Sell Stock [Easy]
-    - 160. Intersection of Two Linked Lists [Easy]
+    -   121. Best Time to Buy and Sell Stock [Easy]
+    -   160. Intersection of Two Linked Lists [Easy]
 - 6th April
-    - 217. Contains Duplicate [Easy]
-    - 219. Contains Duplicate II [Easy]
+    -   217. Contains Duplicate [Easy]
+    -   219. Contains Duplicate II [Easy]
 - 7th April
-    - 191. Number of 1 Bits [Easy]
-    - 190. Reverse Bits [Easy]
+    -   191. Number of 1 Bits [Easy]
+    -   190. Reverse Bits [Easy]
 - 8th April
-    - 111. Minimum Depth of Binary Tree [Easy]
-    - 257. Binary Tree Paths [Easy]
+    -   111. Minimum Depth of Binary Tree [Easy]
+    -   257. Binary Tree Paths [Easy]
 - 9th April
-    - 257. Binary Tree Paths [Easy] (Redid with cleaner method)
-    - 110. Balanced Binary Tree [Easy]
-    - 461. Hamming Distance [Easy]
-    - 2807. Insert Greatest Common Divisors in Linked List [Medium]
-    - 1669. Merge In Between Linked Lists [Medium]
-    - 29. Divide Two Integers [Medium]
+    -   257. Binary Tree Paths [Easy] (Redid with cleaner method)
+    -   110. Balanced Binary Tree [Easy]
+    -   461. Hamming Distance [Easy]
+    -   2807.   Insert Greatest Common Divisors in Linked List [Medium]
+    -   1669.   Merge In Between Linked Lists [Medium]
+    -   29. Divide Two Integers [Medium]
 - 10th April
-    - 19. Remove Nth Node From End of List [Medium]
-    - 169. Majority Element [Easy]
+    -   19. Remove Nth Node From End of List [Medium]
+    -   169. Majority Element [Easy]
 - 11th April
-    - 39. Combination Sum [Medium]
-    - 40. Combination Sum II [Medium] (Assisted)
+    -   39. Combination Sum [Medium]
+    -   40. Combination Sum II [Medium] (Assisted)
 - 12th April
-    - 222. Count Complete Tree Nodes [Easy]
+    -   222. Count Complete Tree Nodes [Easy]
 - 13th April
-    - 128. Longest Consecutive Sequence [Medium]
-    - 101. Symmetric Tree [Easy]
+    -   128. Longest Consecutive Sequence [Medium]
+    -   101. Symmetric Tree [Easy]
 - 14th April
-    - 167. Two Sum II - Input Array Is Sorted [Medium]
-    - 11. Container With Most Water [Medium]
+    -   167. Two Sum II - Input Array Is Sorted [Medium]
+    -   11. Container With Most Water [Medium]
 - 15th April
-    - 15. 3Sum [Medium] (two implementations)
+    -   15. 3Sum [Medium] (two implementations)
 - 16th April
-    - 643. Maximum Average Subarray I [Easy]
-    - 209. Minimum Size Subarray Sum [Medium]
+    -   643. Maximum Average Subarray I [Easy]
+    -   209. Minimum Size Subarray Sum [Medium]
 - 17th April
-    - 118. Pascal's Triangle [Easy]
-    - 119. Pascal's Triangle II [Easy]
-    - 120. Triangle [Easy]
+    -   118. Pascal's Triangle [Easy]
+    -   119. Pascal's Triangle II [Easy]
+    -   120. Triangle [Easy]
 - 18th April
-    - 64. Minimum Path Sum [Medium]
-    - 62. Unique Paths [Medium] (3 implementations: recursion, DP, combinatorics)
-    - 63. Unique Paths II [Medium]
+    -   64. Minimum Path Sum [Medium]
+    -   62. Unique Paths [Medium] (3 implementations: recursion, DP, combinatorics)
+    -   63. Unique Paths II [Medium]
+- 19th April
+    -   931. Minimum Falling Path Sum [Medium]
