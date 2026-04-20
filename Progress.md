@@ -86,6 +86,9 @@
     - 2204A - Passing the Ball [800]
 - 19th April
     - 2194A - Lawn Mower [800]
+- 20th April
+    - 2203A - Towers of Boxes [800]
+    - 2195A - Sieve of Erato67henes [800]
 
 ## LeetCode
 
@@ -163,3 +166,6 @@
     -   63. Unique Paths II [Medium]
 - 19th April
     -   931. Minimum Falling Path Sum [Medium]
+- 20th April
+    -   392. Is Subsequence [Easy]
+    -   198. House Robber [Easy]
