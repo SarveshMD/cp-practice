@@ -89,6 +89,8 @@
 - 20th April
     - 2203A - Towers of Boxes [800]
     - 2195A - Sieve of Erato67henes [800]
+- 21st April
+    - 2193B - Reverse a Permutation [800]
 
 ## LeetCode
 
@@ -169,3 +171,5 @@
 - 20th April
     -   392. Is Subsequence [Easy]
     -   198. House Robber [Easy]
+- 21st April
+    -   322. Coin Change [Medium]
