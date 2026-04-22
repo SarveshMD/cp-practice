@@ -91,6 +91,8 @@
     - 2195A - Sieve of Erato67henes [800]
 - 21st April
     - 2193B - Reverse a Permutation [800]
+- 22nd April
+    - 2193A - DBMB and the Array [800]
 
 ## LeetCode
 
@@ -173,3 +175,5 @@
     -   198. House Robber [Easy]
 - 21st April
     -   322. Coin Change [Medium]
+- 22nd April
+    -   300. Longest Increasing Subsequence [Medium]
