@@ -93,6 +93,10 @@
     - 2193B - Reverse a Permutation [800]
 - 22nd April
     - 2193A - DBMB and the Array [800]
+- 23rd April
+    - 2202A - Parkour Design [800]
+- 24th April
+    - 2167A - Square? [800]
 
 ## LeetCode
 
@@ -177,3 +181,7 @@
     -   322. Coin Change [Medium]
 - 22nd April
     -   300. Longest Increasing Subsequence [Medium]
+- 23rd April
+    -   139. Word Break [Medium]
+- 24th April
+    -   5. Longest Palindromic Substring [Medium]
