@@ -97,6 +97,9 @@
     - 2202A - Parkour Design [800]
 - 24th April
     - 2167A - Square? [800]
+- 25th April
+    - Contest 2222 (Round 1094, Div.1 + Div.2)
+        - A - A Wonderful Contest
 
 ## LeetCode
 
@@ -185,3 +188,9 @@
     -   139. Word Break [Medium]
 - 24th April
     -   5. Longest Palindromic Substring [Medium]
+- 25th April
+    -   3903. Smallest Stable Index I [Easy]
+    -   3904. Smallest Stable Index II [Medium]
+    - Biweekly Contest 181
+        - Q1. Valid Digit Number [Easy]
+        - Q2. Compare Sums of Bitonic Parts [Medium]
