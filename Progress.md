@@ -100,6 +100,8 @@
 - 25th April
     - Contest 2222 (Round 1094, Div.1 + Div.2)
         - A - A Wonderful Contest
+- 26th April
+    - 2184A - Social Experiment [800]
 
 ## LeetCode
 
@@ -118,14 +120,14 @@
     -   113. Path Sum II [Medium]
 - 3rd April
     -   100. Same Tree [Easy]
-    -   2703.   Return Length of Arguments Passed [Easy]
-    -   1572.   Matrix Diagonal Sum [Easy]
+    -   2703. Return Length of Arguments Passed [Easy]
+    -   1572. Matrix Diagonal Sum [Easy]
     -   237. Delete Node in a Linked List [Medium]
     -   700. Search in a Binary Search Tree [Easy]
-    -   2331.   Evaluate Boolean Binary Tree [Easy]
+    -   2331. Evaluate Boolean Binary Tree [Easy]
     -   832. Flipping an Image [Easy]
-    -   1464.   Maximum Product of Two Elements in an Array [Easy]
-    -   1008.   Construct Binary Search Tree from Preorder Traversal [Medium]
+    -   1464. Maximum Product of Two Elements in an Array [Easy]
+    -   1008. Construct Binary Search Tree from Preorder Traversal [Medium]
     -   48. Rotate Image [Medium]
 - 4th April
     -   141. Linked List Cycle [Easy]
@@ -145,8 +147,8 @@
     -   257. Binary Tree Paths [Easy] (Redid with cleaner method)
     -   110. Balanced Binary Tree [Easy]
     -   461. Hamming Distance [Easy]
-    -   2807.   Insert Greatest Common Divisors in Linked List [Medium]
-    -   1669.   Merge In Between Linked Lists [Medium]
+    -   2807. Insert Greatest Common Divisors in Linked List [Medium]
+    -   1669. Merge In Between Linked Lists [Medium]
     -   29. Divide Two Integers [Medium]
 - 10th April
     -   19. Remove Nth Node From End of List [Medium]
@@ -192,5 +194,8 @@
     -   3903. Smallest Stable Index I [Easy]
     -   3904. Smallest Stable Index II [Medium]
     - Biweekly Contest 181
-        - Q1. Valid Digit Number [Easy]
-        - Q2. Compare Sums of Bitonic Parts [Medium]
+        - Q1. 3908. Valid Digit Number [Easy]
+        - Q2. 3909. Compare Sums of Bitonic Parts [Medium]
+- 26th April
+    -   3912. Valid Elements in an Array [Easy]
+    -   122. Best Time to Buy and Sell Stock II [Medium]
