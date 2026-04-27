@@ -100,8 +100,11 @@
 - 25th April
     - Contest 2222 (Round 1094, Div.1 + Div.2)
         - A - A Wonderful Contest
+        - Results: 756+80 = 836 Rating
 - 26th April
     - 2184A - Social Experiment [800]
+- 27th April
+    - 2185A - Perfect Root [800]
 
 ## LeetCode
 
@@ -199,3 +202,6 @@
 - 26th April
     -   3912. Valid Elements in an Array [Easy]
     -   122. Best Time to Buy and Sell Stock II [Medium]
+- 27th April
+    -   3898. Find the Degree of Each Vertex [Easy]
+    -   3899. Angles of a Triangle [Medium]
