@@ -105,6 +105,10 @@
     - 2184A - Social Experiment [800]
 - 27th April
     - 2185A - Perfect Root [800]
+- 28th April
+    - Contest 2226 (Round 1095, Div. 2)
+        - A - Disturbing Distribution
+        - B - Everything Everywhere
 
 ## LeetCode
 
@@ -205,3 +209,6 @@
 - 27th April
     -   3898. Find the Degree of Each Vertex [Easy]
     -   3899. Angles of a Triangle [Medium]
+- 28th April
+    -   3905. Multi Source Flood Fill [Medium] (Implemented in Brute Force, TLE)
+    -   228. Summary Ranges [Easy]
