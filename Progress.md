@@ -109,6 +109,9 @@
     - Contest 2226 (Round 1095, Div. 2)
         - A - Disturbing Distribution
         - B - Everything Everywhere
+        - Results: 836+82 = 918 Rating
+- 29th April
+    - 2188A - Divisible Permutation [800]
 
 ## LeetCode
 
@@ -212,3 +215,6 @@
 - 28th April
     -   3905. Multi Source Flood Fill [Medium] (Implemented in Brute Force, TLE)
     -   228. Summary Ranges [Easy]
+- 29th April
+    -   292. Nim Game [Easy]
+    -   367. Valid Perfect Square [Easy] (2 implementations: brute force, prime factorization)
