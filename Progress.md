@@ -112,6 +112,12 @@
         - Results: 836+82 = 918 Rating
 - 29th April
     - 2188A - Divisible Permutation [800]
+- 30th April
+    - Virtual Contest 2227 (Round 1096, Div. 3)
+        - A - Koshary
+        - B - Party Monster
+        - C - Snowfall (WA once)
+        - Total time taken: 33 mins
 
 ## LeetCode
 
@@ -218,3 +224,6 @@
 - 29th April
     -   292. Nim Game [Easy]
     -   367. Valid Perfect Square [Easy] (2 implementations: brute force, prime factorization)
+- 30th April
+    -   344. Reverse String [Easy]
+    -   485. Max Consecutive Ones [Easy]
