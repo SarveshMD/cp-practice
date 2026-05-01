@@ -118,6 +118,9 @@
         - B - Party Monster
         - C - Snowfall (WA once)
         - Total time taken: 33 mins
+- 1st May
+    - 2131A - Lever [800]
+    - 2131B - Alternating Series [800]
 
 ## LeetCode
 
@@ -227,3 +230,5 @@
 - 30th April
     -   344. Reverse String [Easy]
     -   485. Max Consecutive Ones [Easy]
+- 1st May
+    -   3913.   Sort Vowels by Frequency [Medium]
