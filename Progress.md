@@ -121,6 +121,11 @@
 - 1st May
     - 2131A - Lever [800]
     - 2131B - Alternating Series [800]
+- 2nd May (Problems recommended by Upsolve.it)
+    - 1987A - Upload More RAM [800]
+    - 1807B - Grab the Candies [800]
+    - 1440B - Sum of Medians [900]
+    - 2033B - Sakurako and Water [900]
 
 ## LeetCode
 
@@ -231,4 +236,6 @@
     -   344. Reverse String [Easy]
     -   485. Max Consecutive Ones [Easy]
 - 1st May
-    -   3913.   Sort Vowels by Frequency [Medium]
+    -   3913. Sort Vowels by Frequency [Medium]
+- 2nd May
+    -   55. Jump Game [Medium]
