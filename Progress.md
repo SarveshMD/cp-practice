@@ -126,6 +126,8 @@
     - 1807B - Grab the Candies [800]
     - 1440B - Sum of Medians [900]
     - 2033B - Sakurako and Water [900]
+- 3rd May
+    - 1754B - Kevin and Permutation [800]
 
 ## LeetCode
 
@@ -239,3 +241,6 @@
     -   3913. Sort Vowels by Frequency [Medium]
 - 2nd May
     -   55. Jump Game [Medium]
+- 3rd May
+    -   3917. Count Indices With Opposite Parity [Easy]
+    -   3918. Sum of Primes Between Number and Its Reverse [Medium]
