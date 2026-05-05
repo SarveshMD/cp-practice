@@ -128,6 +128,10 @@
     - 2033B - Sakurako and Water [900]
 - 3rd May
     - 1754B - Kevin and Permutation [800]
+- 5th May
+    - Virtual Contest 2225 (Educational Round 189, Div.2)
+        - A - A Number Between Two Others
+        - B - Alternating String
 
 ## LeetCode
 
@@ -244,3 +248,6 @@
 - 3rd May
     -   3917. Count Indices With Opposite Parity [Easy]
     -   3918. Sum of Primes Between Number and Its Reverse [Medium]
+- 5th May
+    -   105. Construct Binary Tree from Preorder and Inorder Traversal [Medium]
+    -   226. Invert Binary Tree [Easy]
