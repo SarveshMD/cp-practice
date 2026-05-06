@@ -132,6 +132,8 @@
     - Virtual Contest 2225 (Educational Round 189, Div.2)
         - A - A Number Between Two Others
         - B - Alternating String
+- 6th May
+    - 2191A - Array Coloring [800]
 
 ## LeetCode
 
@@ -251,3 +253,5 @@
 - 5th May
     -   105. Construct Binary Tree from Preorder and Inorder Traversal [Medium]
     -   226. Invert Binary Tree [Easy]
+- 6th May
+    -   349. Intersection of Two Arrays [Easy]
