@@ -255,3 +255,11 @@
     -   226. Invert Binary Tree [Easy]
 - 6th May
     -   349. Intersection of Two Arrays [Easy]
+- 8th May
+    - NeetCode 150
+    -   217. Contains Duplicate [Easy] (redo)
+    -   242. Valid Anagram [Easy]
+    -   1. Two Sum [Easy] (redo)
+    -   49. Group Anagrams [Medium]
+    -   347. Top K Frequent Elements [Medium]
+    -   271. Encode and Decode Strings [Medium]
