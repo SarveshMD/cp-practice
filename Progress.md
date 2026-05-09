@@ -263,3 +263,10 @@
     -   49. Group Anagrams [Medium]
     -   347. Top K Frequent Elements [Medium]
     -   271. Encode and Decode Strings [Medium]
+- 9th May
+    - Biweekly Contest 182
+    -   3921.   Score Validator [Easy]
+    - NeetCode 150
+    -   238. Product of Array Except Self [Medium]
+    -   36. Valid Sudoku [Medium]
+    -   128. Longest Consecutive Sequence [Medium]
