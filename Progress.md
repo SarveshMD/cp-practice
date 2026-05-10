@@ -256,7 +256,7 @@
 - 6th May
     -   349. Intersection of Two Arrays [Easy]
 - 8th May
-    - NeetCode 150
+    - NeetCode 150 [Arrays & Hashing]
     -   217. Contains Duplicate [Easy] (redo)
     -   242. Valid Anagram [Easy]
     -   1. Two Sum [Easy] (redo)
@@ -266,7 +266,12 @@
 - 9th May
     - Biweekly Contest 182
     -   3921.   Score Validator [Easy]
-    - NeetCode 150
+    - NeetCode 150 [Arrays & Hashing]
     -   238. Product of Array Except Self [Medium]
     -   36. Valid Sudoku [Medium]
     -   128. Longest Consecutive Sequence [Medium]
+- 10th May
+    - NeetCode 150 [Two Pointers]
+    -   125. Valid Palindrome [Easy]
+    -   167. Two Sum II - Input Array Is Sorted [Medium]
+    -   15. 3Sum [Medium]
