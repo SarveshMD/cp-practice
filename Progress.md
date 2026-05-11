@@ -275,3 +275,10 @@
     -   125. Valid Palindrome [Easy]
     -   167. Two Sum II - Input Array Is Sorted [Medium]
     -   15. 3Sum [Medium]
+- 11th May
+    - NeetCode 150 [Two Pointers + Sliding Window]
+    -   11. Container With Most Water [Medium]
+    -   42. Trapping Rain Water [Hard]
+    -   121. Best Time to Buy and Sell Stock [Easy]
+    -   3. Longest Substring Without Repeating Characters [Medium]
+    -   424. Longest Repeating Character Replacement [Medium]
