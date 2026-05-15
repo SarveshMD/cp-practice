@@ -287,3 +287,12 @@
     -   567. Permutation in String [Medium]
     -   76. Minimum Window Substring [Hard]
     -   239. Sliding Window Maximum [Hard]
+- 14th May
+    - NeetCode 150 [Stack]
+    -   20. Valid Parentheses [Easy]
+    -   155. Min Stack [Medium]
+    -   150. Evaluate Reverse Polish Notation [Medium]
+    -   739. Daily Temperatures [Medium]
+- 15th May
+    - 704. Binary Search [Easy]
+
