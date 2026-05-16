@@ -294,5 +294,8 @@
     -   150. Evaluate Reverse Polish Notation [Medium]
     -   739. Daily Temperatures [Medium]
 - 15th May
-    - 704. Binary Search [Easy]
-
+    -   704. Binary Search [Easy]
+- 16th May
+    -   74. Search a 2D Matrix [Medium]
+    -   875. Koko Eating Bananas [Medium]
+    -   153. Find Minimum in Rotated Sorted Array [Medium]
