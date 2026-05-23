@@ -294,8 +294,22 @@
     -   150. Evaluate Reverse Polish Notation [Medium]
     -   739. Daily Temperatures [Medium]
 - 15th May
+    - NeetCode 150 [Binary Search]
     -   704. Binary Search [Easy]
 - 16th May
     -   74. Search a 2D Matrix [Medium]
     -   875. Koko Eating Bananas [Medium]
     -   153. Find Minimum in Rotated Sorted Array [Medium]
+- 17th May
+    -   33. Search in Rotated Sorted Array [Medium]
+    -   981. Time Based Key-Value Store [Medium]
+- 20th May
+    -   206. Reverse Linked List [Easy]
+- 21st May
+    -   853. Car Fleet [Medium]
+- 22nd May
+    -   84. Largest Rectangle in Histogram [Hard]
+- 23rd May
+    - Biweekly Contest 183
+    -   3936.   Minimum Swaps to Move Zeros to End [Easy]
+    -   3937.   Minimum Operations to Make Array Modulo Alternating I [Medium]
