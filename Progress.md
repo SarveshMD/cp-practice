@@ -321,3 +321,27 @@
 - 26th May
     -   143. Reorder List [Medium]
     -   19. Remove Nth Node From End of List [Medium]
+- 30th May
+    -   230. Kth Smallest Element in a BST [Medium]
+    -   98. Validate Binary Search Tree [Medium]
+    -   102. Binary Tree Level Order Traversal [Medium]
+    -   235. Lowest Common Ancestor of a Binary Search Tree [Medium]
+    -   572. Subtree of Another Tree [Easy]
+    -   100. Same Tree [Easy]
+    -   104. Maximum Depth of Binary Tree [Easy]
+    -   226. Invert Binary Tree [Easy]
+    -   23. Merge k Sorted Lists [Hard]
+- 31st May
+    -   297. Serialize and Deserialize Binary Tree [Hard]
+    -   124. Binary Tree Maximum Path Sum [Hard]
+    -   105. Construct Binary Tree from Preorder and Inorder Traversal [Medium]
+    -   2126. Destroying Asteroids [Medium]
+- 1st June
+    -   2144. Minimum Cost of Buying Candies With Discount [Easy]
+    -   39. Combination Sum [Medium]
+    -   295. Find Median from Data Stream [Hard]
+    -   1929. Concatenation of Array [Easy]
+    -   1470. Shuffle the Array [Easy]
+    -   485. Max Consecutive Ones [Easy]
+    -   645. Set Mismatch [Easy]
+    -   79. Word Search [Medium]
