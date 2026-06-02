@@ -345,3 +345,8 @@
     -   485. Max Consecutive Ones [Easy]
     -   645. Set Mismatch [Easy]
     -   79. Word Search [Medium]
+- 2nd June
+    -   208. Implement Trie (Prefix Tree) [Medium]
+    -   211. Design Add and Search Words Data Structure [Medium]
+    -   212. Word Search II [Hard]
+    -   3633.   Earliest Finish Time for Land and Water Rides I [Easy]
