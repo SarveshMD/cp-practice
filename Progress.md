@@ -322,6 +322,7 @@
     -   143. Reorder List [Medium]
     -   19. Remove Nth Node From End of List [Medium]
 - 30th May
+    - NeetCode Blind75: Trees
     -   230. Kth Smallest Element in a BST [Medium]
     -   98. Validate Binary Search Tree [Medium]
     -   102. Binary Tree Level Order Traversal [Medium]
@@ -332,11 +333,13 @@
     -   226. Invert Binary Tree [Easy]
     -   23. Merge k Sorted Lists [Hard]
 - 31st May
+    - NeetCode Blind75: Trees
     -   297. Serialize and Deserialize Binary Tree [Hard]
     -   124. Binary Tree Maximum Path Sum [Hard]
     -   105. Construct Binary Tree from Preorder and Inorder Traversal [Medium]
     -   2126. Destroying Asteroids [Medium]
 - 1st June
+    - NeetCode Blind75: Heap, Backtracking
     -   2144. Minimum Cost of Buying Candies With Discount [Easy]
     -   39. Combination Sum [Medium]
     -   295. Find Median from Data Stream [Hard]
@@ -346,7 +349,14 @@
     -   645. Set Mismatch [Easy]
     -   79. Word Search [Medium]
 - 2nd June
+    - NeetCode Blind75: Tries
     -   208. Implement Trie (Prefix Tree) [Medium]
     -   211. Design Add and Search Words Data Structure [Medium]
     -   212. Word Search II [Hard]
     -   3633.   Earliest Finish Time for Land and Water Rides I [Easy]
+- 3rd June
+    - NeetCode Blind75: Graphs
+    -   200. Number of Islands [Medium]
+    -   133. Clone Graph [Medium]
+    -   417. Pacific Atlantic Water Flow [Medium]
+    -   3635.   Earliest Finish Time for Land and Water Rides II [Medium]
