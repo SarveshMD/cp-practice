@@ -360,3 +360,9 @@
     -   133. Clone Graph [Medium]
     -   417. Pacific Atlantic Water Flow [Medium]
     -   3635.   Earliest Finish Time for Land and Water Rides II [Medium]
+- 4th June
+    - NeetCode Blind75: Graphs
+    -   207. Course Schedule [Medium]
+    -   323. Number of Connected Components in an Undirected Graph [Medium]
+    -   261. Graph Valid Tree [Medium]
+    -   3751.   Total Waviness of Numbers in Range I [Medium]
