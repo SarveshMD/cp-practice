@@ -311,8 +311,8 @@
     -   84. Largest Rectangle in Histogram [Hard]
 - 23rd May
     - Biweekly Contest 183
-    -   3936.   Minimum Swaps to Move Zeros to End [Easy]
-    -   3937.   Minimum Operations to Make Array Modulo Alternating I [Medium]
+    -   3936. Minimum Swaps to Move Zeros to End [Easy]
+    -   3937. Minimum Operations to Make Array Modulo Alternating I [Medium]
 - 24th May
     -   4. Median of Two Sorted Arrays [Hard]
 - 25th May
@@ -353,16 +353,21 @@
     -   208. Implement Trie (Prefix Tree) [Medium]
     -   211. Design Add and Search Words Data Structure [Medium]
     -   212. Word Search II [Hard]
-    -   3633.   Earliest Finish Time for Land and Water Rides I [Easy]
+    -   3633. Earliest Finish Time for Land and Water Rides I [Easy]
 - 3rd June
     - NeetCode Blind75: Graphs
     -   200. Number of Islands [Medium]
     -   133. Clone Graph [Medium]
     -   417. Pacific Atlantic Water Flow [Medium]
-    -   3635.   Earliest Finish Time for Land and Water Rides II [Medium]
+    -   3635. Earliest Finish Time for Land and Water Rides II [Medium]
 - 4th June
     - NeetCode Blind75: Graphs
     -   207. Course Schedule [Medium]
     -   323. Number of Connected Components in an Undirected Graph [Medium]
     -   261. Graph Valid Tree [Medium]
-    -   3751.   Total Waviness of Numbers in Range I [Medium]
+    -   3751. Total Waviness of Numbers in Range I [Medium]
+- 5th June
+    - NeetCode Blind75: Advanced Graphs and Greedy
+    -   269. Alien Dictionary [Hard]
+    -   53. Maximum Subarray [Medium]
+    -   55. Jump Game [Medium]
