@@ -408,3 +408,9 @@
     -   190. Reverse Bits [Easy]
     -   268. Missing Number [Easy]
     -   371. Sum of Two Integers [Medium]
+- 2nd July
+    -   416. Partition Equal Subset Sum [Medium]
+    -   136. Single Number [Easy]
+    - Revisited:
+    -   153. Find Minimum in Rotated Sorted Array [Medium]
+    -   143. Reorder List [Medium]
