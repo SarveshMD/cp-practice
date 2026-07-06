@@ -414,3 +414,5 @@
     - Revisited:
     -   153. Find Minimum in Rotated Sorted Array [Medium]
     -   143. Reorder List [Medium]
+- 6th July
+    - CodeForces - a few problems
