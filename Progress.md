@@ -135,6 +135,11 @@
 - 6th May
     - 2191A - Array Coloring [800]
 
+- 1st August
+    - Contest 2248 (Round 1113, Div. 2)
+        - A - You Delete, I Delete
+        - B - Merge to Match
+
 ## LeetCode
 
 - 24th March
@@ -416,3 +421,18 @@
     -   143. Reorder List [Medium]
 - 6th July
     - CodeForces - a few problems
+
+- 1st August
+    - LeetCode
+    -   4008. Minimum Initial Strength to Defeat All Monsters [Medium]
+    -   4006. Count Valid Prefixes [Easy]
+    -   153. Find Minimum in Rotated Sorted Array [Medium]
+    -   875. Koko Eating Bananas [Medium]
+    -   74. Search a 2D Matrix [Medium]
+    -   704. Binary Search [Easy]
+    -   84. Largest Rectangle in Histogram [Hard]
+    -   853. Car Fleet [Medium]
+    -   739. Daily Temperatures [Medium]
+    -   150. Evaluate Reverse Polish Notation [Medium]
+    -   155. Min Stack [Medium]
+    -   496. Next Greater Element I [Easy]
