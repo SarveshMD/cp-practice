@@ -423,7 +423,6 @@
     - CodeForces - a few problems
 
 - 1st August
-    - LeetCode
     -   4008. Minimum Initial Strength to Defeat All Monsters [Medium]
     -   4006. Count Valid Prefixes [Easy]
     -   153. Find Minimum in Rotated Sorted Array [Medium]
@@ -436,3 +435,18 @@
     -   150. Evaluate Reverse Polish Notation [Medium]
     -   155. Min Stack [Medium]
     -   496. Next Greater Element I [Easy]
+- 2nd August
+    -   133. Clone Graph [Medium]
+    -   695. Max Area of Island [Medium]
+    -   200. Number of Islands [Medium]
+    -   19. Remove Nth Node From End of List [Medium]
+    -   143. Reorder List [Medium]
+    -   141. Linked List Cycle [Easy]
+    -   21. Merge Two Sorted Lists [Easy]
+    -   206. Reverse Linked List [Easy]
+    -   4. Median of Two Sorted Arrays [Hard]
+    -   981. Time Based Key-Value Store [Medium]
+    -   33. Search in Rotated Sorted Array [Medium]
+    -   4012. Count of Unfinished Tasks After Each Shift [Medium]
+    -   4011. Count Subarrays With Even Odd Ratio I [Medium]
+    -   4010. Maximize Pair Strength Using GCD [Easy]
