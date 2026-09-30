@@ -1,4 +1,6 @@
 import java.util.*;
+import java.io.PrintStream;
+import java.io.OutputStream;
 
 public class alice_apple_tree {
     public static void main(String[] args) {
@@ -23,5 +25,8 @@ public class alice_apple_tree {
 
         System.out.println("Result: " + res);
         sc.close();
+
+        System.setOut(new PrintStream(OutputStream.nullOutputStream()));
+        System.out.println(N);
     }
 }
