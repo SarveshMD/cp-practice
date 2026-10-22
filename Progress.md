@@ -450,3 +450,78 @@
     -   4012. Count of Unfinished Tasks After Each Shift [Medium]
     -   4011. Count Subarrays With Even Odd Ratio I [Medium]
     -   4010. Maximize Pair Strength Using GCD [Easy]
+
+## NeetCode150
+
+- 3rd August
+    - Rotting Fruit [Medium]
+    - Subarray Sum Equals K [Medium]
+    - Islands and Treasure [Medium]
+    - Number of Islands [Medium]
+- 4th August
+    - Pacific Atlantic Water Flow [Medium]
+- 5th August
+    - Surrounded Regions [Medium]
+- 6th August
+    - Climbing Stairs [Easy]
+    - Binary Tree Level Order Traversal [Medium]
+    - Lowest Common Ancestor in Binary Search Tree [Medium]
+    - Same Binary Tree [Easy]
+    - Balanced Binary Tree [Easy]
+    - Diameter of Binary Tree [Easy]
+    - Maximum Depth of Binary Tree [Easy]
+    - Invert Binary Tree [Easy]
+
+- 24th August
+    - Clone Graph [Medium]
+
+- 23rd September
+    - Copy Linked List with Random Pointer [Medium]
+- 24th September
+    - Add Two Numbers [Medium]
+
+- 4th October
+    - Find the Duplicate Number [Medium]
+- 6th October
+    - Find the Duplicate Number [Medium]
+- 7th October
+    - LRU Cache [Medium]
+- 8th October
+    - LRU Cache [Medium]
+    - Merge K Sorted Linked Lists [Hard]
+- 9th October
+    - Reverse Nodes in a K-Group [Hard]
+- 10th October
+    - Count Good Nodes in Binary Tree [Medium]
+    - Binary Tree Right Side View [Medium]
+- 11th October
+    - Last Stone Weight [Easy]
+    - Kth Largest Element in a Stream [Easy]
+- 12th October
+    - K Closest Points to Origin [Medium]
+- 13th October
+    - Kth Largest Element in an Array [Medium]
+- 14th October
+    - Task Scheduler [Medium]
+- 15th October
+    - Design Twitter [Medium]
+- 16th October
+    - Subsets [Medium]
+- 17th October
+    - Combination Sum [Medium]
+    - Subsets [Medium]
+    - Combination Sum II [Medium]
+- 18th October
+    - Permutations [Medium]
+    - Combination Sum II [Medium]
+    - Subsets II [Medium]
+- 19th October
+    - Word Search [Medium]
+    - Generate Parentheses [Medium]
+- 20th October
+    - Palindrome Partitioning [Medium]
+- 21st October
+    - Letter Combinations of a Phone Number [Medium]
+    - N-Queens [Hard]
+- 22nd October
+    - Course Schedule II [Medium]
