@@ -137,8 +137,22 @@
 
 - 1st August
     - Contest 2248 (Round 1113, Div. 2)
-        - A - You Delete, I Delete
-        - B - Merge to Match
+        - A - You Delete, I Delete [800]
+        - B - Merge to Match [1000]
+- 8th Sep
+    - 2260A - Monocarp's Contest [800]
+- 19th Oct
+    - 2275A - In Search of Convenience [800]
+    - 2275B - Did Not Go to Print [800]
+    - 1899A - Game with Integers [800]
+    - 2275C - Unrequited Love [1000]
+
+## TLE Eliminators
+
+- 21st Oct
+    - 1900A - Cover in Water [800]
+    - 1901A - Line Trip [800]
+    - 1903A - Halloumi Boxes [800]
 
 ## LeetCode
 
