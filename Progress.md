@@ -508,6 +508,7 @@
 - 10th October
     - Count Good Nodes in Binary Tree [Medium]
     - Binary Tree Right Side View [Medium]
+### Heap / Priority Queue
 - 11th October
     - Last Stone Weight [Easy]
     - Kth Largest Element in a Stream [Easy]
@@ -519,6 +520,7 @@
     - Task Scheduler [Medium]
 - 15th October
     - Design Twitter [Medium]
+### Backtracking
 - 16th October
     - Subsets [Medium]
 - 17th October
@@ -537,5 +539,11 @@
 - 21st October
     - Letter Combinations of a Phone Number [Medium]
     - N-Queens [Hard]
+### Graphs
 - 22nd October
     - Course Schedule II [Medium]
+- 23rd October
+    - Number of Islands [Medium]
+- 24th October
+    - Max Area of Island [Medium]
+    - Redundant Connection [Medium]
